@@ -23,6 +23,7 @@ export default {
   ],
 
   theme: defaultTheme({
+    contributors: false,
     editLink: false,
     editLinkText: "",
     searchPlaceholder: "Buscar...",
@@ -31,8 +32,8 @@ export default {
     navbar: [
       {
         text: "Curso",
-        link: "/curso/",
         children: [
+          { text: "Inicio", link: "/curso/README.md" },
           { text: "Tema 1", link: "/curso/tema-1/inicio.md" },
           { text: "Tema 2", link: "/curso/tema-2/inicio.md" },
           { text: "Tema 3", link: "/curso/tema-3/inicio.md" },
@@ -63,7 +64,7 @@ export default {
       ],
       "/curso/": [
         {
-          title: "Curso",
+          title: "Inicio",
           children: [
             "/curso/README.md",
             {

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/banner.png
+heroImage: /images/banner.svg
 heroAlt: Banner de Teoría Política
 tagline: Curso de Teoría Política en la Web
 actions:
