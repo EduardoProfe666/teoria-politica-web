@@ -6,7 +6,7 @@ tagline: Curso de Teoría Política en la Web
 actions:
   - text: Curso
     link: /curso/
-    type: primary
+    type: secondary
   - text: Escritorio
     link: /escritorio/
     type: secondary
