@@ -41,21 +41,11 @@ export default {
         ],
       },
       {
-        text: "Escritorio",
-        link: "/escritorio/",
-      },
-      {
         text: "Materiales",
         link: "/materiales/",
       },
     ],
     sidebar: {
-      "/escritorio/": [
-        {
-          title: "Escritorio",
-          children: ["/escritorio/README.md"],
-        },
-      ],
       "/materiales/": [
         {
           title: "Materiales",
