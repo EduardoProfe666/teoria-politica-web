@@ -23,6 +23,7 @@ export default {
   ],
 
   theme: defaultTheme({
+
     contributors: false,
     editLink: false,
     editLinkText: "",
@@ -41,21 +42,11 @@ export default {
         ],
       },
       {
-        text: "Escritorio",
-        link: "/escritorio/",
-      },
-      {
         text: "Materiales",
         link: "/materiales/",
       },
     ],
     sidebar: {
-      "/escritorio/": [
-        {
-          title: "Escritorio",
-          children: ["/escritorio/README.md"],
-        },
-      ],
       "/materiales/": [
         {
           title: "Materiales",
@@ -101,7 +92,7 @@ export default {
         },
       ],
     },
-    sidebarDepth: 2,
+    sidebarDepth: 1,
     tip: "Nota",
     warning: "Advertencia",
     danger: "Importante",
