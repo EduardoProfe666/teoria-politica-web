@@ -4,6 +4,8 @@ title: Materiales
 
 # Materiales
 
+![ma](/materiales-internos/10-1.png)
+
 En este apartado se podrán descargar los diferentes materiales necesarios en el curso de Teoría Política
 
 ## Índice de Materiales

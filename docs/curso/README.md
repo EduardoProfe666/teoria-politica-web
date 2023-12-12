@@ -1,5 +1,7 @@
 # Inicio del Curso
 
+![ma](/materiales-internos/10-1.png)
+
 ## Estructura de los contenidos
 
 La asignatura está integrada por 4 temas:

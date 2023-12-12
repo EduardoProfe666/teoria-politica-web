@@ -23,6 +23,7 @@ export default {
   ],
 
   theme: defaultTheme({
+
     contributors: false,
     editLink: false,
     editLinkText: "",
@@ -91,7 +92,7 @@ export default {
         },
       ],
     },
-    sidebarDepth: 2,
+    sidebarDepth: 1,
     tip: "Nota",
     warning: "Advertencia",
     danger: "Importante",
