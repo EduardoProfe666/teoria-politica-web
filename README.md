@@ -3,8 +3,6 @@
 [![Languages](https://img.shields.io/github/languages/top/EduardoProfe666/teoria-politica-web?color=orange)](https://github.com/EduardoProfe666/teoria-politica-web)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://tlo.mit.edu/learn-about-intellectual-property/software-and-open-source-licensing/open-source-licensing)
 ![Static Badge](https://img.shields.io/badge/status-build-green)
-[![Latest Version](https://img.shields.io/github/release/EduardoProfe666/teoria-politica-web.svg)](https://github.com/EduardoProfe666/teoria-politica-web/releases)
-![GitHub Release Date](https://img.shields.io/github/release-date/EduardoProfe666/teoria-politica-web)
 [![Last Commit](https://img.shields.io/github/last-commit/EduardoProfe666/teoria-politica-web)](https://github.com/EduardoProfe666/teoria-politica-web/commits/master)
 
 Proyecto de solución web informacional de Teoría Política en VuePress
