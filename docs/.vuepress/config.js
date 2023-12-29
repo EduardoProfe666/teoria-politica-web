@@ -121,5 +121,4 @@ export default {
       debug: true,
     }),
   ],
-  base: "/teoria-politica-web/",
 };
